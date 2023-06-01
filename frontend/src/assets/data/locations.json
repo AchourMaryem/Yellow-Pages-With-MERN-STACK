@@ -1,0 +1,690 @@
+[
+  {
+    
+    "name": "Hôtel Thabraca Thalasso & Diving",
+    "city": "Tabarka",
+    "address":"BP 204 Route touristique، 8110",
+    "email": "Thabracathalasso@gmail.com",
+    "contact": "+216 78 671 540",
+    "desc": "It is the ideal place for a relaxing holiday, moments of relaxation and tranquility.",
+    "avgRating": "3.8",
+    "photo": "/location-images/hoteltabarka.jpg",
+    "recommended":true,
+    "type" :"hotels"
+  },
+
+  {
+    
+    "name":"Dr. Oumeima KHLIFI NSAIRIA",
+    "city": "Tunis",
+    "address":"15 Avenue Farhat Hached, Kram Ouest, Carthage Salambo, Tunisie, Tunis 2089",
+    "email": "cabinet.dentiste.tunis@gmail.com",
+    "contact": " +216 92615315 ",
+    "desc": "Medecin Dentiste",
+    "avgRating": "3.6",
+    "photo": "/location-images/dendiste.jpg",
+    "recommended":true,
+    "type" :"dendiste"
+
+  },
+
+  {
+    
+    "name": "Hôtel Royal Azur Thalassa",
+    "city": "Hammamet",
+    "address":"Rue Assad Ibn el fourat, Hammamet 8050",
+    "email": "royalazur@gmail.com",
+    "contact": "+216 72 278 500",
+    "desc": "The Royal Azur Thalasso Golf is the perfect establishment for travelers wishing to recharge their batteries during their stay in Hammamet. Renowned for its setting and its proximity to great restaurants and attractions, the Royal Azur Thalasso Golf allows you to take full advantage of the best Hammamet has to offer.",
+    "avgRating": "4.1",
+    "photo": "/location-images/hotel2.jpg",
+    "recommended":true,
+    "type" :"hotels"
+
+  },
+
+  {
+    
+    "name": "Restaurant Dar El Jeld",
+    "city": "Tunis",
+    "address":"5 – 10 Rue Dar El Jeld 5 – 10 Rue Dar El Jeld, Tunis 1006 Tunisie",
+    "email": "dareljeld@gmail.com",
+    "contact": "+216 71 56 09 16",
+    "desc": "Vegetarian Friendly, Vegan Options, Halal",
+    "avgRating": "4.5",
+    "photo": "/location-images/restaurant1.jpg",
+    "recommended":true,
+    "type" :"restaurants"
+
+  },
+
+  {
+    
+    "name": "Pharmacie - Abdelkader Chaouch",
+    "city": "Tunis",
+    "address":"79 Av. Hédi Chaker, Tunis 1002",
+    "email": "abdelkaderchaouch@gmail.com",
+    "contact": "+216 71 289 806",
+    "desc": "Our day pharmacy in Tunis offers prescription and over-the-counter medications as well as advice from experienced pharmacists.",
+    "avgRating": "4.5",
+    "photo": "/location-images/pharmacie2.jpg",
+    "recommended":true,
+    "type" :"pharmacies"
+  },
+
+  {
+    
+    "name": "Hôtel Blue Marine & Thalasso",
+    "city": "Hammamet",
+    "address":"Yasmine Hammamet 8050",
+    "email": "bluemarine@gmail.com",   
+    "contact": "+216 72 240 666",
+    "desc": "The Hotel Laico Hammamet is the perfect establishment for travelers wishing to relax during their stay in Hammamet. Renowned for its family setting and its proximity to great restaurants and attractions, the Hotel Laico Hammamet allows you to take full advantage of the best Hammamet has to offer.",
+    "avgRating": "4.7",
+    "photo": "/location-images/hotel5.jpg",
+    "recommended":true,
+    "type" :"hotels"
+
+  },
+
+  {
+    
+    "name": "La Clinique Méditerranéenne",
+    "city": "Tunis",
+    "address":"37 Av. de l'UMA, Tunis",
+    "email": "cliniquemediterranenne@gmail.com",   
+    "contact": "+216 70 246 000",
+    "desc": "The clinic offers a multitude of services in different surgical, obstetrical, medical, intensive care and exploration specialties at reasonable costs and unparalleled quality.",
+    "avgRating": "3.3",
+    "photo": "/location-images/clinique.jpg",
+    "recommended":true,
+    "type" :"cliniques"
+  },
+
+  {
+    "name": "The First, Coffee & Resto",
+    "city": "Sousse",
+    "address":"Avenue Taïeb Mehiri, Sousse Tunisie",
+    "email": "thefirst@gmail.com",   
+    "contact": "+216 29 825 000",
+    "desc": "Cafe, International, Mediterranean, French, European. Vegetarian Friendly, Vegan Options, Halal",
+    "avgRating": "4.5",
+    "photo": "/location-images/cafe1.jpg",
+    "recommended":true,
+    "type" :"cafes"
+  },
+
+  {
+    "name": "JAZ Tour Khalef Thalasso & Spa",
+    "city": "Sousse",
+    "address": "Boulevard du 14 Janvier, Sousse 4051 Tunisie",
+    "email": "tourkhalef@gmail.com",
+    "contact": "+216 73 241 844",
+    "desc": "The hotel has a concierge. Plus, Tour Khalef Marhaba offers a pool and a lounge, providing a pleasant respite from your busy day. For guests with vehicles, free parking is available.",
+    "avgRating":"4.5",
+    "photo": "/location-images/jaz.jpg",
+    "type" :"hotels"
+  },
+  {
+    "name": "Hôtel Menara",
+    "city": "Hammamet",
+    "address": "Avenue De La Paix Bp 57, Hammamet 8050",
+    "email": "menara@gmail.com",
+    "contact": "+216 72 226 999",
+    "desc": "This relaxed hotel is located on a tree-lined street, surrounded by landscaped grounds. It is a 6-minute walk from a beach on the Gulf of Hammamet, 8 minutes walk from the archaeological site of Pupput and 2 km from the A1 motorway.",
+    "avgRating":"3.4",
+    "photo": "/location-images/menara.jpg",
+    "type" :"hotels"
+  },
+  
+
+    {
+      "name": "Bedouina",
+      "city": "Hammamet",
+      "address":"Avenue Moncef Bey, Hammamet 8050 Tunisie",
+      "email": "bedouina@gmail.com",
+      "contact": "+216 72 310 717",
+      "desc": "Mediterranean, Tunisian, Seafood, European. Reservations, Seating, Serves Alcohol, Table Service",
+      "avgRating": "4.5",
+      "photo": "/restaurant-images/Bedouina.jpg",
+      "type":"restaurants"
+  
+      },
+      {
+          
+          "name": "Coco Beach Khayam garden",
+          "city": "Nabeul",
+          "address":"8000 Avenue Mohammed V Hôtel Khayam Garden, Nabeul 8000 Tunisie",
+          "email": "cocobeach@gmail.com",
+          "contact": "+216 72 223 133",
+          "desc": "Seafood, Barbecue, European, Tunisian, Dining bars. ",
+          "avgRating": "4.3",
+          "photo": "/restaurant-images/cocobeachkhayamgarden.jpg",
+          "type":"restaurants"
+          
+          },
+      
+          {
+          
+          "name": "L'Amiral",
+          "city": "Hammamet",
+          "address":"Port Yasmine, Hammamet 8057 Tunisie",
+          "email": "lamiral@gmail.com",
+          "contact": "+216 72 240 732",
+          "desc": "Mediterranean, Seafood, Tunisian. Reservations, Seating, Wheelchair Accessible, Serves Alcohol, Table Service",
+          "avgRating": "3.5",
+          "photo": "/restaurant-images/lamiral1.jpg",
+          "type":"restaurants"
+              
+          },
+      
+          {
+      
+          "name": "La Villa",
+          "city": "Sousse",
+          "address":"Movenpick Resort & Marine Spa Sousse Boulevard du 14 Janvier, Sousse 4000 Tunisie",
+          "email": "lavilla@gmail.com",
+          "contact": "+216 73 202 000",
+          "desc": "French, European, Mediterranean",
+          "avgRating": "4.3",
+          "photo": "/restaurant-images/lavilla.jpg",
+          "type":"restaurants"
+                  
+          },
+      
+          {
+          
+          "name": "El Ali",
+          "city": "Tunis",
+          "address":"45 bis rue Jemaâ Zitouna la Médina, Tunis 1006 Tunisie",
+          "email": "elali@gmail.com",
+          "contact": "+216 55 559 357",
+          "desc": "Seafood, European, Tunisian, Arabic. Vegetarian Friendly, Vegan Options, Halal ",
+          "avgRating": "4.5",
+          "photo": "/restaurant-images/elali.jpg",
+          "type":"restaurants"
+                          
+          },
+          {
+          
+          "name": "Sushiwan",
+          "city": "La marsa",
+          "address":"Pres de Voie Express Tunis Gammarth, La Marsa 2070 Tunisie",
+          "email": "sushiwan@gmail.com",
+          "contact": "+216 24 354 354",
+          "desc": "Japanese, Sushi, Asian",
+          "avgRating": "4.0",
+          "photo": "/restaurant-images/sushiwan.jpg",
+          "type":"restaurants"
+          
+          },
+          
+          {
+          
+          "name": "La Daurade",
+          "city": "Sousse",
+          "address":"Port El Kantaoui, Hammam Sousse 4089 Tunisie",
+          "email": "ladaurade@gmail.com",
+          "contact": "+216 73 348 893",
+          "desc": "Seafood, Mediterranean, European, Tunisian. ",
+          "avgRating": "4.0",
+          "photo": "/restaurant-images/ladaurade.jpg",
+          "type":"restaurants"
+                      
+          },
+          {
+          
+          "name": "Le Rocher Restaurant & Bar à Vins",
+          "city": "Tabarka",
+          "address":"Thabarca thalasso & Diving Magic Hotels, Tabarka 8110 Tunisie",
+          "email": "lerocher@gmail.com",
+          "contact": "+216 78 671 318",
+          "desc": "International, Pub, Gastropub, Seafood, Mediterranean, Wine Bar, Tunisian",
+          "avgRating": "4.0",
+          "photo": "/restaurant-images/lerochercuisinemets.jpg",
+          "type":"restaurants"
+                          
+          },
+          {
+    
+            "name": "Carlton Hôtel",
+            "city": "Tunis",
+            "address":"31 Av. Habib Bourguiba, Tunis 1000",
+            "email": "carlton@gmail.com",
+            "contact": "+216 71 330 644",
+            "desc": "Housed in an elegant Art Nouveau-style building dating from 1926, this chic city center hotel is a 9-minute walk from Tunis train station, 15 minutes from the library National Museum of Tunisia and 6 km from the Bardo National Museum, which houses a collection of Roman mosaics. The sober and contemporary rooms with colorful touches are equipped with free Wi-Fi, a flat-screen TV and a mini-fridge. Those of the higher category also have a balcony. Covered parking is free, as is the buffet breakfast, served in a minimalist dining room with modern furnishings. The establishment also includes an original reception lounge and a furnished patio with parasols.",
+            "avgRating": "3.7",
+            "photo": "/hotel-images/carlton.jpg",
+            "type":"hotels"
+        
+            },
+            
+            {
+            
+            "name": "Carthage Thalasso Resort",
+            "city": "Gammarth",
+            "address":"GAMMARTH. LES COTES DE CARTHAGE. BP720. 2070 TUNISIA Gammarth, 2070",
+            "email": "carthage@gmail.com",
+            "contact": "+216 71 910 111",
+            "desc": "Offering direct access to Gammarth Beach on the Gulf of Tunis, this upscale hotel is 9 km from La Corniche Train Station and 10 km from the National Museum of Carthage.",
+            "avgRating": "3.9",
+            "photo": "/hotel-images/carthage.jpg",
+            "type":"hotels"
+            
+            },
+        
+            {
+            
+            "name": "El Mouradi Menzah",
+            "city": "Hammamet",
+            "address":"Yasmine Hammamet 8050",
+            "email": "elmouradi@gmail.com",
+            "contact": "+216 72 244 400",
+            "desc": "Located in the seaside resort of Yasmine Hammamet, this simple complex is 5 km from the archaeological remains of Pupput, 2 km from the beaches of Hammamet and 4 km from the road transafrican 1.",
+            "avgRating": "3.4",
+            "photo": "/hotel-images/elmouradi.jpg",
+            "type":"hotels"
+                
+            },
+        
+            {
+           
+            "name": "Four Seasons Hotels and Resorts",
+            "city": "Gammarth",
+            "address":"1057 La Marsa, Gammarth",
+            "email": "fourseasons@gmail.com",
+            "contact": "+216 31 260 000",
+            "desc": "Located on the beach, along the Gulf of Tunis, this upscale hotel is 6 km from the Marsa corniche, 12 km from the archaeological site of Carthage and 19 km from the airport. Tunis-Carthage International.",
+            "avgRating": "4.5",
+            "photo": "/hotel-images/fourseasons.jpg",
+            "type":"hotels"
+                    
+            },
+        
+            {
+            
+            "name": "Hotel La Residence Hammamet",
+            "city": "Hammamet",
+            "address":"60 Av. Habib Bourguiba, Hammamet 8050",
+            "email": "laresidence@gmail.com",
+            "contact": "+216 72 280 733",
+            "desc": "Located a 6-minute walk from the nearest beach, this Moorish-style hotel is a 9-minute walk from the Kasbah of Hammamet fortress and 10 km from Yasmine Port of Hammamet.",
+            "avgRating": "3.1",
+            "photo": "/hotel-images/laresidence.jpg",
+            "type":"hotels"
+                            
+            },
+            
+            
+            {
+           
+            "name": "Hotel Marhaba Royal Salem",
+            "city": "Sousse",
+            "address":"Marhaba Royal Salem, Boulevard du 14 Janvier, Sousse 4039",
+            "email": "marhaba@gmail.com",
+            "contact": "+216 73 271 588",
+            "desc": "Located on a beach on the Gulf of Hammamet, this friendly resort is 5 km from the historic medina of Sousse and 41 km from Enfidha-Hammamet International Airport.",
+            "avgRating": "4.1",
+            "photo": "/hotel-images/marhaba.jpg",
+            "type":"hotels"
+                        
+            },
+        
+            {
+               
+                "name": "Mariott Sousse - The Pearl Resort & Spa",
+                "city": "Sousse",
+                "address":"Avenue Abdelhamid El Kadhi, La Corniche, Boulevard Abdelhamid El Kadhi, Sousse 4000",
+                "email": "mariott@gmail.com",
+                "contact": "+216 73 104 000",
+                "desc": "Contemporary hotel with chic restaurant, terrace, outdoor swimming pool, spa and view of the gulf.",
+                "avgRating": "3.9",
+                "photo": "/hotel-images/pearl.jpg",
+                "type":"hotels"
+                
+                },
+            {
+            
+            "name": "Shems Holiday Village & Aquapark",
+            "city": "Monastir",
+            "address":"Route touristique de Skanes Monastir Monastir, 5000",
+            "email": "shems@gmail.com",
+            "contact": "+216 73 524 060",
+            "desc": "Set in 24 hectares of gardens on the coast of the Gulf of Hammamet, this relaxed all-inclusive resort is located on the edge of a beach. It is located 10 km from the museum Archaeological Site of Sousse and 7 km from Monastir Habib-Bourguiba International Airport.",
+            "avgRating": "3.2",
+            "photo": "/hotel-images/Shems.jpg",
+            "type":"hotels"
+                            
+            },
+            {
+    
+              "name": "72 Coffee & Drinks",
+              "city": "Tunis",
+              "address":"Rue De Lac Léman, Tunis 1053 Tunisie",
+              "email": "coffee@gmail.com",
+              "contact": "+216 29 357 333",
+              "desc": "Cafe, Fast Food, Mediterranean, Diner, Tunisian. Breakfast, Lunch, Dinner, Brunch, Drinks",
+              "avgRating": "4.5",
+              "photo": "/cafe-images/72coffee.jpg",
+              "type":"cafes"
+          
+              },
+              
+              {
+             
+              "name": "BROOKS CAFE",
+              "city": "Nabeul",
+              "address":"AV Habib Bourguiba, Nabeul 8000 Tunisie",
+              "email": "brooks@gmail.com",
+              "contact": "+216 52 301 000",
+              "desc": "Mediterranean, Pizza, Cafe, Tunisian",
+              "avgRating": "4.0",
+              "photo": "/cafe-images/books.jpg",
+              "type":"cafes"
+              
+              },
+          
+              {
+              
+              "name": "Dario",
+              "city": "Nabeul",
+              "address":"68 Avenue Mohamed V, Nabeul 8000 Tunisie",
+              "email": "dario@gmail.com",
+              "contact": "+216 72 232 644",
+              "desc": "Italian, Pizza, Cafe, Fast food, Breakfast, Lunch, Dinner, Brunch, Late Night, Drinks",
+              "avgRating": "3.0",
+              "photo": "/cafe-images/dario.jpg",
+              "type":"cafes"
+                  
+              },
+          
+              {
+              
+              "name": "Cafe des Delices",
+              "city": "Sidi Bou Said",
+              "address":"Corniche, Sidi Bou Said 2026 Tunisie",
+              "email": "desdelices@gmail.com",
+              "contact": "+216 73 202 000",
+              "desc": "Cafe, Tunisian, Open Late, Drinks, Terrace, Seating, Table service",
+              "avgRating": "2.5",
+              "photo": "/cafe-images/delices.jpg",
+              "type":"cafes"
+                      
+              },
+          
+              {
+              
+              "name": "Everest Coffee",
+              "city": "Ariana",
+              "address":"2 Ter, Rue Ibn Abi Dhiaf, Ariana 2080 Tunisie",
+              "email": "everest@gmail.com",
+              "contact": "+216 22 543 429",
+              "desc": "Coffee, Breakfast, Seating, Reservations",
+              "avgRating": "4.5",
+              "photo": "/cafe-images/everest.jpg",
+              "type":"cafes"
+                              
+              },
+              {
+              
+              "name": "Gourmandise Ksar Tej",
+              "city": "Ariana",
+              "address":"4 rue de la liberté Ksar Tej 1004 Menzah, TN-11, Ariana 1004 Tunisie",
+              "email": "gourmandise@gmail.com",
+              "contact": "+216 71 234 314",
+              "desc": "Italian, Cafe, Fast Food, Mediterranean, Tunisian, Arabic. Breakfast, Lunch, Dinner, Late Night, Drinks",
+              "avgRating": "4.0",
+              "photo": "/cafe-images/gourmandise.jpg",
+              "type":"cafes"
+              
+              },
+              
+              {
+              
+              "name": "Cafe des Nattes",
+              "city": "Sidi Bou Said",
+              "address":"Rue Sidi Bou Fares, Sidi Bou Said 2026 Tunisie",
+              "email": "nattes@gmail.com",
+              "contact": "+216 71 749 661",
+              "desc": "Cafe, Tunisian, Breakfast, Drinks, Terrace, Seating, Table service",
+              "avgRating": "4.0",
+              "photo": "/cafe-images/nattes.jpg",
+              "type":"cafes"
+                          
+              },
+              {
+              
+              "name": "Sidi Bouhdid",
+              "city": " Hammamet",
+              "address":"La Médina Arabe, Hammamet 8050 Tunisie",
+              "email": "sidibouhadid@gmail.com",
+              "contact": "+216 72 280 040",
+              "desc": "Cafe, Tunisian, Halal, Breakfast, Lunch, Brunch, Late Night, Drinks",
+              "avgRating": "4.5",
+              "photo": "/cafe-images/sidibouhadid.jpg",
+              "type":"cafes"
+                              
+              },
+              {
+    
+                "name": "Pharmacie Dahmani Fayçal",
+                "city": "Bizerte",
+                "address":"114 Rue Bourguiba, Bizerte 7000",
+                "email": "dahmanifaycel@gmail.com",
+                "contact": "+216 72 432 572",
+                "desc": "Toujours ouverte de 8:30 à 19:30, sauf dimanche et samedi de 8:30 à 13:30",
+                "avgRating": "4.8",
+                "photo": "/pharmacie-images/faycal.jpg",
+                "type":"pharmacies"
+            
+                },
+                
+                {
+                
+                "name": "Pharmacie Ahmed Ammar",
+                "city": "Hammamet",
+                "address":"120 Av. Taieb Mhiri, Hammamet",
+                "email": "ammarahmed@gmail.com",
+                "contact": "+216 72 278 809",
+                "desc": "Services disponibles: Achats en magasin",
+                "avgRating": "4.4",
+                "photo": "/pharmacie-images/ahmed.jpg",
+                "type":"pharmacies"
+                
+                },
+            
+                {
+                
+                "name": "Pharmacie Basma Gongi",
+                "city": "Sousse",
+                "address":"Port Yasmine, Hammamet 8057 Tunisie",
+                "email": "gongibasma@gmail.com",
+                "contact": "+216 70 694 593",
+                "desc": "Services disponibles: Achats en magasin, Horaires : 24h/24",
+                "avgRating": "3.9",
+                "photo": "/pharmacie-images/basma.jpg",
+                "type":"pharmacies"
+                    
+                },
+            
+                {
+                
+                "name": "Pharma bien être plus",
+                "city": "Monastir",
+                "address":"QR6C+QH3, Cité Résidence El Amal, Monastir",
+                "email": "bienetre@gmail.com",
+                "contact": "+216 94 521 522",
+                "desc": "Services disponibles: Achats en magasin, Horaires : toujours de 9:00 à 19:00",
+                "avgRating": "4.2",
+                "photo": "/pharmacie-images/bienetre.jpg",
+                "type":"pharmacies"
+                        
+                },
+            
+                {
+                
+                "name": "Pharmacie Douik Soua zeineb",
+                "city": "Sousse",
+                "address":"Av. Etawfeek, Sousse 4023",
+                "email": "douikzeineb@gmail.com",
+                "contact": "+216  73 300 037",
+                "desc": "Services disponibles: Achats en magasin · Retrait en magasin, Horaires: toujours de 8:30 à 19:30, samedi: de 8:30 à 13:30, dimanche: fermé",
+                "avgRating": "4.0",
+                "photo": "/pharmacie-images/douik.jpg",
+                "type":"pharmacies"
+                                
+                },
+                {
+                
+                "name": "Pharmacie Heni BELGHITH",
+                "city": "Hammamet",
+                "address":"en face avec café, Rue Assad Ben Fourat, Hammamet 8050",
+                "email": "belghithheni@gmail.com",
+                "contact": "+216 79 780 808",
+                "desc": "Japanese, Sushi, Asian",
+                "avgRating": "4.0",
+                "photo": "/pharmacie-images/heni.jpg",
+                "type":"pharmacies"
+                
+                },
+                
+                {
+                
+                "name": "Pharmacie Skhiri Salim",
+                "city": "Monastir",
+                "address":"Monastir",
+                "email": "skhirisalim@gmail.com",
+                "contact": "+216 73 907 573",
+                "desc": "Services disponibles: Achats en magasin ",
+                "avgRating": "4.0",
+                "photo": "/pharmacie-images/Skhiri.jpg",
+                "type":"pharmacies"
+                            
+                },
+                {
+                
+                "name": "Pharmacie TUNIS صيدلية",
+                "city": "Tunis",
+                "address":"8 bis Rue Mongi Slim, Tunis 1000",
+                "email": "pharmacietunis@gmail.com",
+                "contact": "+216 71 326 382",
+                "desc": "Services disponibles: Achats en magasin · Retrait en magasin",
+                "avgRating": "4.4",
+                "photo": "/pharmacie-images/tunis.jpg",
+                "type":"pharmacies"
+                                
+                },
+                {
+    
+                  "name": "All Time Tours",
+                  "city": "Sousse",
+                  "address":"Im.Mesk Ellil route touristique 4089",
+                  "email": "alltime@gmail.com",
+                  "contact": "+216 99 690 790",
+                  "desc": "AllTimeTours, travel agency in Sousse, Operating in the tourism sector for twenty years, combining the pleasure of serving and the art of the trade, AlltimeTours, offers its customers business trips, group stays, seminars, meetings, various holidays and incentive programs. The multidisciplinary expertise of AlltimeTours is an alliance between knowledge and rigor offering you all the art of the trade in turnkey perfection.",
+                  "avgRating": "4.9",
+                  "photo": "/travelagencie-images/alltime.jpg",
+                  "type":"travelagencies"
+              
+                  },
+                  
+                  {
+                  
+                  "name": "Agencia Viajes Túnez Desert Rose",
+                  "city": "Hergla",
+                  "address":"AV.H BOURGUIBA, Hergla 4012",
+                  "email": "desertrose@gmail.com",
+                  "contact": "+216 99 851 118",
+                  "desc": "disponible de lundi à samedi de 08:00 à 16:00, dimanche fermé",
+                  "avgRating": "4.9",
+                  "photo": "/travelagencie-images/desert.jpg",
+                  "type":"travelagencies"
+                  
+                  },
+              
+                  {
+                  
+                  "name": "Kmar travel & events",
+                  "city": "Monastir",
+                  "address":"Avenue Ibn El Jazzar en face de L’ENIM Skanes Monastir، 5000",
+                  "email": "kmartravel@gmail.com",
+                  "contact": "+216 27 663 660",
+                  "desc": "disponible de lundi à samedi de 08:00 à 16:00, dimanche fermé",
+                  "avgRating": "3.5",
+                  "photo": "/travelagencie-images/kmar.jpg",
+                  "type":"travelagencies"
+                      
+                  },
+              
+                  {
+                 
+                  "name": "New Age Travel",
+                  "city": "Akouda",
+                  "address":"Rond Point GP1, Akouda 4022",
+                  "email": "newage@gmail.com",
+                  "contact": "+216 73 811 750",
+                  "desc": "Horaires: de lundi à vendredi de 08:00 à 18:00, samedi: de 08:00 à 13:00",
+                  "avgRating": "4.2",
+                  "photo": "/travelagencie-images/newage.jpg",
+                  "type":"travelagencies"
+                          
+                  },
+              
+                  {
+                  
+                  "name": "World Safari Travel",
+                  "city": "Sousse",
+                  "address":"Avenue 14 Janvier, Hammam Sousse, Sousse 4011",
+                  "email": "worldsafari@gmail.com",
+                  "contact": "+216 73 366 383",
+                  "desc": "Services disponibles: Rendez-vous en ligne · Services sur place ",
+                  "avgRating": "4.7",
+                  "photo": "/travelagencie-images/safari.jpg",
+                  "type":"travelagencies"
+                                  
+                  },
+                  {
+                  
+                  "name": "Traveltodo Agence",
+                  "city": "Sousse",
+                  "address":" VJ84+6P, Hammam Sousse",
+                  "email": "traveltodo@gmail.com",
+                  "contact": "+216 70 103 179",
+                  "desc": "Horaire: de lundi à vendredi de 08:30 à 18:00, samedi de 08:30 à 13:00",
+                  "avgRating": "4.4",
+                  "photo": "/travelagencie-images/traveltodo.jpg",
+                  "type":"travelagencies"
+                  
+                  },
+                  
+                  {
+                  
+                  "name": "Traveltodo agence",
+                  "city": "Monastir",
+                  "address":"Monastir Immeuble Benzarti, Boulevard de l’environnement, 5000 Rte de Kairouan, Monastir 5000",
+                  "email": "traveltodo@gmail.com",
+                  "contact": "+216 70 103 176",
+                  "desc": "Horaire: de lundi à vendredi de 08:30 à 18:00, samedi de 08:30 à 13:00",
+                  "avgRating": "2.5",
+                  "photo": "/travelagencie-images/traveltodo1.jpg",
+                  "type":"travelagencies"
+                              
+                  },
+                  {
+                  
+                  "name": "TT Voyages",
+                  "city": "Téboulba",
+                  "address":"JXP3+7F7, Av. 23 janvier 1952, Tabulbah",
+                  "email": "ttvoyages@gmail.com",
+                  "contact": "+216 78 671 318",
+                  "desc": "Horaires : Ouvert 24h/24",
+                  "avgRating": "5.0",
+                  "photo": "/travelagencie-images/tt.jpg",
+                  "type":"travelagencies"
+                                  
+                  }
+
+
+
+  
+]

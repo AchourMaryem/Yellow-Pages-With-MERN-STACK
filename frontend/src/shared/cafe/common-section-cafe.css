@@ -1,0 +1,17 @@
+
+.common__section2{
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
+    url('../../assets/images/cafes/cafe2.png') no-repeat center center;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center
+    ;
+}
+
+.common__section2 h1 {
+    font-size: 2.5rem;
+    color: #fff;
+}

@@ -1,0 +1,106 @@
+[
+
+{
+    
+    "name": "Carlton Hôtel",
+    "city": "Tunis",
+    "address":"31 Av. Habib Bourguiba, Tunis 1000",
+    "email": "carlton@gmail.com",
+    "contact": "+216 71 330 644",
+    "desc": "Housed in an elegant Art Nouveau-style building dating from 1926, this chic city center hotel is a 9-minute walk from Tunis train station, 15 minutes from the library National Museum of Tunisia and 6 km from the Bardo National Museum, which houses a collection of Roman mosaics. The sober and contemporary rooms with colorful touches are equipped with free Wi-Fi, a flat-screen TV and a mini-fridge. Those of the higher category also have a balcony. Covered parking is free, as is the buffet breakfast, served in a minimalist dining room with modern furnishings. The establishment also includes an original reception lounge and a furnished patio with parasols.",
+    "avgRating": "3.7",
+    "photo": "/hotel-images/carlton.jpg"
+
+    },
+    
+    {
+    
+    "name": "Carthage Thalasso Resort",
+    "city": "Gammarth",
+    "address":"GAMMARTH. LES COTES DE CARTHAGE. BP720. 2070 TUNISIA Gammarth, 2070",
+    "email": "carthage@gmail.com",
+    "contact": "+216 71 910 111",
+    "desc": "Offering direct access to Gammarth Beach on the Gulf of Tunis, this upscale hotel is 9 km from La Corniche Train Station and 10 km from the National Museum of Carthage.",
+    "avgRating": "3.9",
+    "photo": "/hotel-images/carthage.jpg"
+    
+    },
+
+    {
+    
+    "name": "El Mouradi Menzah",
+    "city": "Hammamet",
+    "address":"Yasmine Hammamet 8050",
+    "email": "elmouradi@gmail.com",
+    "contact": "+216 72 244 400",
+    "desc": "Located in the seaside resort of Yasmine Hammamet, this simple complex is 5 km from the archaeological remains of Pupput, 2 km from the beaches of Hammamet and 4 km from the road transafrican 1.",
+    "avgRating": "3.4",
+    "photo": "/hotel-images/elmouradi.jpg"
+        
+    },
+
+    {
+   
+    "name": "Four Seasons Hotels and Resorts",
+    "city": "Gammarth",
+    "address":"1057 La Marsa, Gammarth",
+    "email": "fourseasons@gmail.com",
+    "contact": "+216 31 260 000",
+    "desc": "Located on the beach, along the Gulf of Tunis, this upscale hotel is 6 km from the Marsa corniche, 12 km from the archaeological site of Carthage and 19 km from the airport. Tunis-Carthage International.",
+    "avgRating": "4.5",
+    "photo": "/hotel-images/fourseasons.jpg"
+            
+    },
+
+    {
+    
+    "name": "Hotel La Residence Hammamet",
+    "city": "Hammamet",
+    "address":"60 Av. Habib Bourguiba, Hammamet 8050",
+    "email": "laresidence@gmail.com",
+    "contact": "+216 72 280 733",
+    "desc": "Located a 6-minute walk from the nearest beach, this Moorish-style hotel is a 9-minute walk from the Kasbah of Hammamet fortress and 10 km from Yasmine Port of Hammamet.",
+    "avgRating": "3.1",
+    "photo": "/hotel-images/laresidence.jpg"
+                    
+    },
+    
+    
+    {
+   
+    "name": "Hotel Marhaba Royal Salem",
+    "city": "Sousse",
+    "address":"Marhaba Royal Salem, Boulevard du 14 Janvier, Sousse 4039",
+    "email": "marhaba@gmail.com",
+    "contact": "+216 73 271 588",
+    "desc": "Located on a beach on the Gulf of Hammamet, this friendly resort is 5 km from the historic medina of Sousse and 41 km from Enfidha-Hammamet International Airport.",
+    "avgRating": "4.1",
+    "photo": "/hotel-images/marhaba.jpg"
+                
+    },
+
+    {
+       
+        "name": "Mariott Sousse - The Pearl Resort & Spa",
+        "city": "Sousse",
+        "address":"Avenue Abdelhamid El Kadhi, La Corniche, Boulevard Abdelhamid El Kadhi, Sousse 4000",
+        "email": "mariott@gmail.com",
+        "contact": "+216 73 104 000",
+        "desc": "Contemporary hotel with chic restaurant, terrace, outdoor swimming pool, spa and view of the gulf.",
+        "avgRating": "3.9",
+        "photo": "/hotel-images/pearl.jpg"
+        
+        },
+    {
+    
+    "name": "Shems Holiday Village & Aquapark",
+    "city": "Monastir",
+    "address":"Route touristique de Skanes Monastir Monastir, 5000",
+    "email": "shems@gmail.com",
+    "contact": "+216 73 524 060",
+    "desc": "Set in 24 hectares of gardens on the coast of the Gulf of Hammamet, this relaxed all-inclusive resort is located on the edge of a beach. It is located 10 km from the museum Archaeological Site of Sousse and 7 km from Monastir Habib-Bourguiba International Airport.",
+    "avgRating": "3.2",
+    "photo": "/hotel-images/Shems.jpg"
+                    
+    }
+]

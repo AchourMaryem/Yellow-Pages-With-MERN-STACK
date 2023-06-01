@@ -1,0 +1,30 @@
+.h3,h3{
+    font-size: 1.75rem;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    
+}
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+.content_slider{
+    position: absolute;
+    top: 45%;
+    left: -0px;
+    right: 0;
+    margin: 0 auto;
+    width: 86%;
+}
+
+.location_name a {
+    text-decoration: none;
+    color:#ffffff;
+    transition: 0.3s;
+}
+
+.location_name a:hover {
+    color: var(--secondary-color);
+}

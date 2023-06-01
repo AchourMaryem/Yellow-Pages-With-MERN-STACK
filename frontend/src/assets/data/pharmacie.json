@@ -1,0 +1,106 @@
+
+[
+    {
+    
+    "name": "Pharmacie Dahmani Fayçal",
+    "city": "Bizerte",
+    "address":"114 Rue Bourguiba, Bizerte 7000",
+    "email": "dahmanifaycel@gmail.com",
+    "contact": "+216 72 432 572",
+    "desc": "Toujours ouverte de 8:30 à 19:30, sauf dimanche et samedi de 8:30 à 13:30",
+    "avgRating": "4.8",
+    "photo": "/pharmacie-images/faycal.jpg"
+
+    },
+    
+    {
+    
+    "name": "Pharmacie Ahmed Ammar",
+    "city": "Hammamet",
+    "address":"120 Av. Taieb Mhiri, Hammamet",
+    "email": "ammarahmed@gmail.com",
+    "contact": "+216 72 278 809",
+    "desc": "Services disponibles: Achats en magasin",
+    "avgRating": "4.4",
+    "photo": "/pharmacie-images/ahmed.jpg"
+    
+    },
+
+    {
+    
+    "name": "Pharmacie Basma Gongi",
+    "city": "Sousse",
+    "address":"Port Yasmine, Hammamet 8057 Tunisie",
+    "email": "gongibasma@gmail.com",
+    "contact": "+216 70 694 593",
+    "desc": "Services disponibles: Achats en magasin, Horaires : 24h/24",
+    "avgRating": "3.9",
+    "photo": "/pharmacie-images/basma.jpg"
+        
+    },
+
+    {
+    
+    "name": "Pharma bien être plus",
+    "city": "Monastir",
+    "address":"QR6C+QH3, Cité Résidence El Amal, Monastir",
+    "email": "bienetre@gmail.com",
+    "contact": "+216 94 521 522",
+    "desc": "Services disponibles: Achats en magasin, Horaires : toujours de 9:00 à 19:00",
+    "avgRating": "4.2",
+    "photo": "/pharmacie-images/bienetre.jpg"
+            
+    },
+
+    {
+    
+    "name": "Pharmacie Douik Soua zeineb",
+    "city": "Sousse",
+    "address":"Av. Etawfeek, Sousse 4023",
+    "email": "douikzeineb@gmail.com",
+    "contact": "+216  73 300 037",
+    "desc": "Services disponibles: Achats en magasin · Retrait en magasin, Horaires: toujours de 8:30 à 19:30, samedi: de 8:30 à 13:30, dimanche: fermé",
+    "avgRating": "4.0",
+    "photo": "/pharmacie-images/douik.jpg"
+                    
+    },
+    {
+    
+    "name": "Pharmacie Heni BELGHITH",
+    "city": "Hammamet",
+    "address":"en face avec café, Rue Assad Ben Fourat, Hammamet 8050",
+    "email": "belghithheni@gmail.com",
+    "contact": "+216 79 780 808",
+    "desc": "Japanese, Sushi, Asian",
+    "avgRating": "4.0",
+    "photo": "/pharmacie-images/heni.jpg"
+    
+    },
+    
+    {
+    
+    "name": "Pharmacie Skhiri Salim",
+    "city": "Monastir",
+    "address":"Monastir",
+    "email": "skhirisalim@gmail.com",
+    "contact": "+216 73 907 573",
+    "desc": "Services disponibles: Achats en magasin ",
+    "avgRating": "4.0",
+    "photo": "/pharmacie-images/Skhiri.jpg"
+                
+    },
+    {
+    
+    "name": "Pharmacie TUNIS صيدلية",
+    "city": "Tunis",
+    "address":"8 bis Rue Mongi Slim, Tunis 1000",
+    "email": "pharmacietunis@gmail.com",
+    "contact": "+216 71 326 382",
+    "desc": "Services disponibles: Achats en magasin · Retrait en magasin",
+    "avgRating": "4.4",
+    "photo": "/pharmacie-images/tunis.jpg"
+                    
+    }
+
+]
+                

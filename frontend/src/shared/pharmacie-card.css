@@ -1,0 +1,70 @@
+.pharmacie__img img {
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+
+}
+
+.card{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+}
+
+.pharmacie__img {
+    position: relative;
+}
+
+.card__top span i {
+    color: var(--secondary-color);
+}
+
+.entreprise__location {
+    color: var(--heading-color);
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+
+.entreprise__rating i ,
+.entreprise__location i {
+    font-size: 1rem;
+}
+
+.entreprise_name {
+    margin-top: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.entreprise_name a {
+    text-decoration: none;
+    color: var(--heading-color);
+    transition: 0.3s;
+}
+
+.entreprise_name a:hover {
+    color: var(--secondary-color);
+}
+
+.card__bottom 
+.btn {
+    --bs-btn-padding-x: none;
+    background:var(--secondary-color) !important;
+    cursor: pointer ;
+    padding: 0.2rem 0.5rem !important;   
+}
+.card__bottom 
+.btn a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    color: #0b2727;
+}
+
+.card__bottom 
+.btn a :hover {
+    color: #0b2727;
+}
+
+
+
+
+
+    
